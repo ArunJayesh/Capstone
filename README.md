@@ -1,1 +1,1 @@
-###A data visulisation of the sales data
+A data visulisation of the sales data
